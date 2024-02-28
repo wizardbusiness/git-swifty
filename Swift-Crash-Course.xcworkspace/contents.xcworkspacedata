@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:array-methods.playground">
+   </FileRef>
+   <FileRef
+      location = "group:loops.playground">
+   </FileRef>
+   <FileRef
+      location = "group:dictionaries.playground">
+   </FileRef>
+   <FileRef
+      location = "group:sets-and-arrays.playground">
+   </FileRef>
+   <FileRef
+      location = "group:access-control.playground">
+   </FileRef>
+   <FileRef
+      location = "group:structs.playground">
+   </FileRef>
+   <FileRef
+      location = "group:OOP.playground">
+   </FileRef>
+   <FileRef
+      location = "group:tuples.playground">
+   </FileRef>
+   <FileRef
+      location = "group:optionals.playground">
+   </FileRef>
+   <FileRef
+      location = "group:protocols.playground">
+   </FileRef>
+   <FileRef
+      location = "group:classes.playground">
+   </FileRef>
+   <FileRef
+      location = "group:enumerations.playground">
+   </FileRef>
+   <FileRef
+      location = "group:closures.playground">
+   </FileRef>
+   <FileRef
+      location = "group:functions.playground">
+   </FileRef>
+   <FileRef
+      location = "group:if-else.playground">
+   </FileRef>
+   <FileRef
+      location = "group:operators.playground">
+   </FileRef>
+   <FileRef
+      location = "group:../../variables.playground">
+   </FileRef>
+</Workspace>
